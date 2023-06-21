@@ -1,0 +1,9 @@
+GIT Commands----------
+
+1) Create Branch ----> |  git branch branch_name
+|
+2) Switch Branch ----> |  git chechout branch_name
+|
+3) Stage all ----> |   git add .
+|
+4) Git Commit ----> |  git commit -m "commit_changes_name"
